@@ -1,0 +1,127 @@
+.bgloginadmin{
+	position: absolute;
+	width: 1440px;
+	height: 778px;
+	left: 0px;
+	top: 0px;
+
+	background: linear-gradient(253.94deg, #FC9C2C -27.45%, rgba(252, 156, 44, 0) 64.18%);
+}
+
+.lembaga{
+	position: absolute;
+	width: 303px;
+	height: 63px;
+	left: 110px;
+	top: 32px;
+
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	line-height: 30px;
+
+	color: #000000;
+}
+
+.rectlogin{
+	position: absolute;
+	width: 325px;
+	height: 438px;
+	left: 539px;
+	top: 187px;
+
+	background: #FFFFFF;
+	box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.25);
+	border-radius: 20px;
+}
+
+.signin{
+	text-align: center;
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 36px;
+	line-height: 44px;
+	color: #000000;
+}
+
+.linelogin{
+	border: 1px solid #000000;
+}
+
+.UserName{
+	position: absolute;
+	width: 129px;
+	height: 28px;
+	left: 557px;
+	/*top: 312px;*/
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 30px;
+	color: #000000;
+
+}
+
+.inputlogin{
+	/*position: absolute;*/
+	width: 291.01px;
+	height: 34.37px;
+	/*left: 557.24px;
+	top: 352.68px;*/
+
+	background: rgba(252, 156, 44, 0.15);
+	border-radius: 10px;
+}
+
+.password{
+	/*position: absolute;
+	width: 129px;
+	height: 28px;
+	left: 557px;
+	top: 415px;*/
+
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 30px;
+
+	color: #000000;
+
+}
+
+.btlogin{
+	position: absolute;
+	width: 108px;
+	height: 41px;
+	left: 652px;
+	top: 539px;
+
+	background: #FC9C2C;
+	border-radius: 10px;
+}
+
+.bghomeadmin{
+	position: absolute;
+	width: 1440px;
+	height: 778px;
+	left: 0px;
+	top: 0px;
+
+	background: linear-gradient(180deg, #FC9C2C -56.1%, rgba(255, 255, 255, 0) 82.76%);
+}
+
+.recthomeadmin{
+	position: absolute;
+	width: 1120px;
+	height: 629px;
+	left: 145px;
+	top: 129px;
+
+	background: #FFFFFF;
+	box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.25);
+	border-radius: 30px;
+}
